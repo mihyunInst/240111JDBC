@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\user1\Desktop\BoardProject_230822.zip"/>
+			<item value="C:\Users\user1\Desktop\BoardProject_230821.zip"/>
+			<item value="C:\Users\user1\Desktop\BoardProject_230818.zip"/>
+			<item value="C:\Users\user1\Desktop\EmployeeManagement_20230818.zip"/>
+			<item value="C:\Users\user1\Desktop\EmployeeManagement_20230817.zip"/>
+			<item value="C:\Users\user1\Desktop\EmployeeManagement_homework.zip"/>
+			<item value="C:\Users\user1\Desktop\jdbc2_all.zip"/>
+			<item value="C:\Users\user1\Desktop\jdbc1_all_230816.zip"/>
+			<item value="C:\Users\user1\Desktop\jdbc_230814.zip"/>
+		</list>
+	</section>
+</section>
